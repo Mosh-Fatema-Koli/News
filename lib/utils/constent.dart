@@ -1,0 +1,1 @@
+enum ReactionText { like, love, sed,haha,none }
